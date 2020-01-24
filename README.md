@@ -1,0 +1,2 @@
+# ExtractiveTextSummarizer
+Text Summarizer
